@@ -9,7 +9,7 @@ E-commerce platform with a responsive user interface.
 
 <!-- REMPLACEZ LES LIENS CI-DESSOUS -->
 - **APPLICATION DÉPLOYÉE (Live Demo) :** [CLIQUEZ ICI POUR VOIR LE SITE](https://)
-- **Repository GitHub :** [Lien vers ce repo](https://)
+- **Repository GitHub :** [Lien vers ce repo](https:github.com/kandoulisoukaina/e-commerce-project)
 
 ---
 
