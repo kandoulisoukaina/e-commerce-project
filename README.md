@@ -1,6 +1,6 @@
-# e-commerce-project
+# e-commerce-project 
 E-commerce platform with a responsive user interface.
-# Nom du Projet ()
+# Nom du Projet (Site des produits artisanaux)
 
 <!-- Mettez un court slogan ou une description en une phrase ici -->
 > Application Backoffice de gestion réalisée dans le cadre du module Dévelopement web.
@@ -17,17 +17,17 @@ E-commerce platform with a responsive user interface.
 
 **Nom du Groupe :** [Insérer le nom du groupe ici]
 
-| Prénom & Nom | Rôle / Tâches principales | Lien Github |
-|--------------|---------------------------|-------------|
-| Étudiant 1   | (ex: Dashboard, ChartJS)  | [@pseudo](https://github.com/pseudo) |
-| Étudiant 2   | (ex: CRUD Utilisateurs)   | [@pseudo](https://github.com/pseudo) |
-| Étudiant 3   | (ex: CSS, Responsive)     | [@pseudo](https://github.com/pseudo) |
+| Prénom & Nom       | Rôle / Tâches principales | Lien Github |
+|--------------------|---------------------------|--------------------------------------|
+| Rachida Houssaini  | (ex: Dashboard, ChartJS)  | [@pseudo](https://github.com/pseudo) |
+| Soukaina Kandouli  | (ex: CRUD Utilisateurs)   | [@pseudo](https://github.com/pseudo) |
+|
 
 ---
 
 ## 📝 Thème Choisi
 <!-- Indiquez le thème choisi parmi la liste ou votre sujet personnalisé -->
-*   **Thème :** (ex: Gestion de Bibliothèque / Gestion Immobilière / Custom...)
+*   **Thème :** (Gestion des Produits Artisanaux)
 *   **Description :** Une brève explication du but de l'application.
 
 ---
