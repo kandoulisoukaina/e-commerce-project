@@ -19,8 +19,8 @@ E-commerce platform with a responsive user interface.
 
 | Prénom & Nom       | Rôle / Tâches principales | Lien Github |
 |--------------------|---------------------------|--------------------------------------|
-| Rachida Houssaini  | (ex: Dashboard, ChartJS)  | [@pseudo](https://github.com/pseudo) |
-| Soukaina Kandouli  | (ex: CRUD Utilisateurs)   | [@pseudo](https://github.com/pseudo) |
+| Rachida Houssaini  | (ex: Dashboard, ChartJS)  | [@rhuss74](https://github.com/rhuss74) |
+| Soukaina Kandouli  | (ex: CRUD Utilisateurs)   | [@kandoulisoukaina](https://github.com/kandoulisoukaina) |
 |
 
 ---
