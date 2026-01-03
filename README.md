@@ -10,7 +10,7 @@ Plateforme E-commerce de Produits Artisanaux Marocains.
 ## 🔗 Liens Importants
 
 <!-- REMPLACEZ LES LIENS CI-DESSOUS -->
-- **APPLICATION DÉPLOYÉE (Live Demo) :** [CLIQUEZ ICI POUR VOIR LE SITE](https://)
+- **APPLICATION DÉPLOYÉE (Live Demo) :** [CLIQUEZ ICI POUR VOIR LE SITE](https://kandoulisoukaina.github.io/e-commerce-project/)
 - **Repository GitHub :** [Lien vers ce repo](https:github.com/kandoulisoukaina/e-commerce-project)
 
 ---
