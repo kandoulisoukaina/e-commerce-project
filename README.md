@@ -1,9 +1,11 @@
 # e-commerce-project 
-E-commerce platform with a responsive user interface.
-# Nom du Projet (Site des produits artisanaux)
+Plateforme E-commerce de Produits Artisanaux Marocains.
+# Nom du Projet (Dar Sanaa)
 
 <!-- Mettez un court slogan ou une description en une phrase ici -->
 > Application Backoffice de gestion réalisée dans le cadre du module Dévelopement web.
+> Elle permet la gestion des produits artisanaux, des clients, des commandes, des stocks et des factures à travers une interface moderne et responsive.
+
 
 ## 🔗 Liens Importants
 
@@ -28,8 +30,7 @@ E-commerce platform with a responsive user interface.
 ## 📝 Thème Choisi
 <!-- Indiquez le thème choisi parmi la liste ou votre sujet personnalisé -->
 *   **Thème :** (Gestion des Produits Artisanaux)
-*   **Description :** Une brève explication du but de l'application.
-
+*   **Description : Cette application web a pour objectif de digitaliser la vente et la gestion des produits artisanaux marocains.
 ---
 
 ## ✅ État d'Avancement (Checklist)
@@ -41,11 +42,11 @@ E-commerce platform with a responsive user interface.
 - [✅] **CRUD 3 :** [Commandes]
 - [✅] **CRUD 4 :** [Stocks]
 - [✅] **CRUD 5 :** [Factures]
-- [ ] **Recherche & Filtres** dans les tableaux
+- [✅] **Recherche** dans les tableaux
 - [ ] **Pagination**
 
 ### Dashboard & Data
-- [ ] **KPIs :** Cartes avec chiffres clés (Total utilisateurs, revenus, etc.)
+- [✅] **KPIs :** Cartes avec chiffres clés (Total utilisateurs, revenus, etc.)
 - [ ] **Chart 1 :** [Type, ex: Pie Chart]
 - [ ] **Chart 2 :** [Type, ex: Bar Chart]
 - [ ] **Chart 3 :** [Type]
@@ -54,22 +55,15 @@ E-commerce platform with a responsive user interface.
 
 ### Technique & Bonus
 - [ ] **Export :** (PDF ou CSV)
-- [ ] **Architecture :** Code organisé sans Framework (Vanilla JS)
-- [ ] **Design :** Interface Responsive (Mobile/Tablette)
+- [✅] **Architecture :** Code organisé sans Framework (Vanilla JS)
+- [✅] **Design :** Interface Responsive (Mobile/Tablette)
 
 ---
 
 ## 🛠 Stack Technique
 
-*   **HTML5 / CSS3** (Framework CSS utilisé : Bootstrap / Tailwind / Autre ?)
+*   **HTML5 / CSS3** 
 *   **JavaScript (ES6+)** (Vanilla JS obligatoire)
-*   **Bibliothèques JS utilisées :** (ex: Chart.js, Faker.js, jsPDF, Lodash...)
-
-### APIs Utilisées
-<!-- Listez les APIs externes ou précisez si vous utilisez des données mockées -->
-*   Source des données : [ex: JSONPlaceholder, Mockaroo, API locale...]
-    *   Endpoint 1 : `https://api.emple.com/users`
-    *   Endpoint 2 : ...
 
 ---
 
