@@ -36,11 +36,11 @@ E-commerce platform with a responsive user interface.
 <!-- Cochez les cases [x] pour les fonctionnalités terminées. Laissez [ ] pour ce qui n'est pas fait. -->
 
 ### Fonctionnalités Principales
-- [ ] **CRUD 1 :** [Clients] (Create, Read, Update, Delete)
-- [ ] **CRUD 2 :** [Produits]
-- [ ] **CRUD 3 :** [Commandes]
-- [ ] **CRUD 4 :** [Stocks]
-- [ ] **CRUD 5 :** [Factures]
+- [✅] **CRUD 1 :** [Clients] (Create, Read, Update, Delete)
+- [✅] **CRUD 2 :** [Produits]
+- [✅] **CRUD 3 :** [Commandes]
+- [✅] **CRUD 4 :** [Stocks]
+- [✅] **CRUD 5 :** [Factures]
 - [ ] **Recherche & Filtres** dans les tableaux
 - [ ] **Pagination**
 
